@@ -1,0 +1,97 @@
+Nomenclatura,Parametro,Parametro_Software,Descripcion,Analisis_Dimensional,Sistema_Ingles,Sistema_Internacional,Tipo_de_Parametro,Revisar,Clasificacion
+Nomenclatura,Parámetro,Parámetro Software,Descripción,Análisis Dimensional,Sistema Inglés,Sistema Internacional,Tipo de Parámetro,“Revisar”,Clasificación
+$H$,Espesor del Yacimiento,,,$L$,$ft$,$m$,Físico,Matemático,Prop. Yac
+$\omega_m$,Factor acéntrico de componente m,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Yac
+$Z_\alpha$,Factor de compresibilidad del factor α,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Yac
+$\alpha_{Ti}$,Factor de difusión térmica del componente i,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$f_m$,Factor de fricción,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Yac
+$F$,Factor de resistividad de la formación,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Yac
+$B$,Factor de volumen de formación,,,$L^{3} / L^{3}$,$ft^{3} / ft^{3}$,$m^{3} / m^{3}$,Físico,,Prop. Yac
+$B_{ob}$,Factor de volumen de formación de aceite en pb,,,$L^{3} / L^{3}$,$RB / STB$,$m^{3} / std m^{3}$,Físico,,Prop. Yac
+$B_{g\alpha}$,Factor de volumen de formación de la fase α,,,$L^{3} / L^{3}$,$ft^{3} / ft^{3}$,$m^{3} / m^{3}$,Físico,,Prop. Yac
+$B_o$,Factor de volumen de formacion del aceite,,,$L^{3} / L^{3}$,$RB / STB$,$m^{3} / std m^{3}$,Físico,,Prop. Yac
+$B_w$,Factor de volumen de formación del agua,,,$L^{3} / L^{3}$,$RB / BBL$,$m^{3} / std m^{3}$,Físico,,Prop. Yac
+$B_{g}$,Factor de volumen de formación del gas,,,$L^{3} / L^{3}$,$RB / SCF$,$m^{3} / std m^{3}$,Físico,,Prop. Yac
+$B_{wi}$,Factor de volumen inicial de formación de agua,,,$L^{3} / L^{3}$,$RB / BBL$,$m^{3} / std m^{3}$,Físico,,Prop. Yac
+$L$,Fracción de masa de aceite,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$V$,Fracción de masa de gas,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$C_{Oo}$,Fracción de masa del componente de aceite en aceite,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$C_{Go}$,Fracción de masa del componente de gas en aceite,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$x_i$,Fracción molar del componente i,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$x_{i\alpha}$,Fracción molar del componente i en la fase α,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$x_m$,Fracción total molar del componente m,,,$mole / mole$,$mole / mole$,$mole / mole$,Físico,,Prop. Yac
+$z_m$,Fracción total molar del componente m,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$q$,Fuente / caída,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Físico,,Prop. Yac
+"$\tilde{Q}_{w,i,j,k}$","Fuente / caída de agua en (i, j, k)",,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+$q_T$,Fuente / caída de calor,,,$M / Lt^{3}$,$Btu / (ft^{3} D)$,$J / (m^{3} D)$,Físico,,Prop. Yac
+$q^{(')}$,Fuente / caída de equilibrio,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Físico,,Prop. Yac
+$\tilde{q}_{\alpha}$,Fuente / caída de la fase α,,,$t^{-1}$,$D^{-1}$,$D^{-1}$,Físico,,Prop. Yac
+$q_\alpha$,Fuente / caída de la fase α,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Físico,,Prop. Yac
+$Q_\alpha$,Fuente / caída de la fase α,,,$M / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+$q_{\alpha s}$,Fuente / caída de la fase α en std,,,$1 / t$,$1 / D$,$1 / D$,Físico,,Prop. Yac
+$q_i$,Fuente / caída del componente i,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg * mole / (m^{3} D)$,Físico,,Prop. Yac
+$q^{(v)}_{spe}$,Fuente / caída específica,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Físico,,Prop. Yac
+$\tilde{Q}_{\alpha s}$,Fuente / tasa de caída,,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+$\tilde{q}_{\alpha s}$,Fuente / tasa de caída en std,,,$t^{-1}$,$D^{-1}$,$D^{-1}$,Físico,,Prop. Yac
+$q_c$,Fuente de calor,,,$M / Lt^{3}$,$Btu / (ft^{3} D)$,$J / (m^{3} D)$,Físico,,Prop. Yac
+$f_{i\alpha}$,Fugacidad del componente i en la fase α,,,$M / (Lt^{2})$,$lbm / (ft * D^{2})$  ,$kg / (m * D^{2})$  ,Físico,,Prop. Yac
+$F_w$,Función de distribución de saturación,,,$fracción$,$fracción$,$fracción$,Matemático,,Prop. Yac
+$\mathcal{A}$,Función de estado de gas simplificado,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$\mathcal{B}$,Función de estado de gas simplificado,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$\mathcal{C}$,Función de estado de gas simplificado,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$f_i$,Función de fugacidad del componente i,,,$M / (Lt^{2})$,$lbm / (ft * D^{2})$  ,$kg / (m * D^{2})$  ,Matemático,,Prop. Yac
+$f_\alpha$,Función del flujo fraccional de la fase α,,,$fracción$,$fracción$,$fracción$,Matemático,,Prop. Yac
+$\mathcal{F}$,Función del lado derecho,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$f$,Función genérica,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$E_i(\cdotp)$,Función integral exponencial,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$\gamma_\alpha$,Gravedad de la fase α,,,$M / (L^{2}t^{2})$,$psi / ft$,$kPa / m$,Físico,,Prop. Yac
+$\delta p_{bh}$,Incremento de la presión en el fondo del agujero,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$\delta S$,Incremento de la saturación,,,$fracción$,$fracción$,$fracción$,Físico,,Prop. Yac
+$\delta p$,Incremento de presión,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$J$,"Intervalo de tiempo de interés (0,T]",,,$t$,$D$,$D$,Físico,,Prop. Yac
+$p$,Presión,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$P^{n}_{i}$,Presión aproximada,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{cgo}$,Presión capilar p g − p o,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{cow}$,Presión capilar p o − p w,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{cm}$,Presión crítica del componente m,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_s$,Presión de formación en std,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_\alpha$,Presión de la fase α,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{bh}$,Presión en zbh,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p^{0}_{h}$,Presión en zd,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+"$p_{i,j,k}$","Presión en el bloque (i, j, k)",,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_i$,Presión en el nodo i,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p^{0}$,Presión inicial,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{cb}$,Presión inicial,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p^{0}_{\alpha}$,Presión inicial de la fase α,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$\bar{p}$,Presión promedio,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p^{o}$,Presión referencial,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$p_{sp}$,Presión superficial específica,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Yac
+$V_o(t)$,Producción acumulada de aceite,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Yac
+$V_w(t)$,Producción acumulada de agua,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Yac
+$V(t)$,Producción acumulada de líquido,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Yac
+$z_{bh}$,Profundidad de nivel de referencia,,,$L$,$ft$,$m$,Físico,Matemático,Prop. Yac
+$z_d$,Profundidad de nivel de referencia,,,$L$,$ft$,$m$,Físico,Matemático,Prop. Yac
+$\bar{\mathbf k}$,Promedio determinado de k,,,$L^{2}$,$darcy$,$\mu m^{2}$,Físico,,Prop. Yac
+$\mathbf{E(u)}$,Proyección ortogonal a lo largo de u,,,$adimensional$,$adimensional$,$adimensional$,Matemático,,Prop. Yac
+$\Phi^{'}$,Pseudopotencial,,,$L$,$ft$,$m$,Físico,,Prop. Yac
+$\psi$,Pseudopresión,,,$M / Lt^{3}$,$lbm / (ft D^{3})$,$kg / (m D^{3})$,Físico,,Prop. Yac
+$R_{go}$,Relación gas / aceite,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Físico,,Prop. Yac
+$R_{so}$,Relación gas / aceite disuelto,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Físico,,Prop. Yac
+$R_{gl}$,Relación gas / líquido,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Físico,,Prop. Yac
+$\Delta z$,Tamaño de paso de longitud en dirección vertical,,,$L$,$ft$,$m$,Físico,,Prop. Yac
+$\Delta t$,Tamaño del paso del tiempo,,,$t$,$D$,$D$,Físico,,Prop. Yac
+$\Delta t^{n}$,Tamaño del paso del tiempo en el nivel n,,,$t$,$D$,$D$,Físico,,Prop. Yac
+$\Delta t_p$,Tamaño del paso del tiempo para la presión,,,$t$,$D$,$D$,Físico,,Prop. Yac
+$\Delta t_S$,Tamaño del paso del tiempo para la saturación,,,$t$,$D$,$D$,Físico,,Prop. Yac
+$h^{'}$,Tamaño del paso espacial,,,$L$,$ft$,$m$,Físico,,Prop. Yac
+$h^{''}$,Tamaño del paso espacial,,,$L$,$ft$,$m$,Físico,,Prop. Yac
+$\Delta x_{i}$,Tamaño del paso espacial en dirección xi,,,$L$,$ft$,$m$,Físico,,Prop. Yac
+$Q_i$,Tasa de flujo del componente i,,,$M / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+$Q_c$,Tasa de fuente de calor,,,$ML^{2} / t^{3}$,$Btu / D$,$J / D$,Físico,,Prop. Yac
+$Q_L$,Tasa de pérdida de calor,,,$ML^{2} / t^{3}$,$Btu / D$,$J / D$,Físico,,Prop. Yac
+$Q$,Tasa de producción / inyección,,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+"$\tilde{Q}_{i,j,k}$","Tasa de producción / inyección en (i, j, k)",,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Físico,,Prop. Yac
+"$Q_{i,j,k}$","Tasa de producción / inyección en (i, j, k)",,,$M / t$,$lbm / D$,$kg / D$,Físico,,Prop. Yac
+$q^{(i)}$,Tasa de producción / inyección en el pozo i,,,$(L^{3}) / t$,$ft^{3} / D$,$m^{3} / D$,Físico,,Prop. Yac
+$T_s$,Temperatura de formación en std,,,$T$,$R$,$K$,Físico,,Prop. Yac
+$B$,Vecindad de origen,,,$L^{2}$,$ft^{2}$,$m^{2}$,Físico,,Prop. Yac

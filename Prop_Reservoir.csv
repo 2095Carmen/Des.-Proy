@@ -1,0 +1,97 @@
+Nomenclature,Noun,Software_Noun,Description,Dimensional_Analysis,English_System,International_System,Parameter_Type,Check,Classification
+Nomenclature,Noun,Software Noun,Description,Dimensional Analysis,English System,International System,Parameter Type,“Check”,Classification
+$\omega_m$,Acentric factor of components m,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Reservoir
+$P^{n}_{i}$,Approximate pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$\bar{p}$,Averaged pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$\delta p_{bh}$,Bottom hole pressure increment,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p_{cgo}$,Capillary pressure p g − p o,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p_{cow}$,Capillary pressure p o − p w,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$\bar{\mathbf k}$,Certain average of k,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,,Prop. Reservoir
+$Z_\alpha$,Compressibility factor of phase α,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Reservoir
+$p_{cm}$,Critical pressure of component m,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$V(t)$,Cumulative liquid production,,,$L^{3}$,$ft^{3}$,$m^{3}$,Physical,,Prop. Reservoir
+$V_o(t)$,Cumulative oil production,,,$L^{3}$,$ft^{3}$,$m^{3}$,Physical,,Prop. Reservoir
+$V_w(t)$,Cumulative water production,,,$L^{3}$,$ft^{3}$,$m^{3}$,Physical,,Prop. Reservoir
+$z_{bh}$,Datum level depth,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Reservoir
+$z_d$,Datum level depth,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Reservoir
+$R_{so}$,Dissolved gas/oil ratio,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$F_w$,Distribution function of saturation,,,$fraction$,$fraction$,$fraction$,Mathematical,,Prop. Reservoir
+$E_i(\cdotp)$,Exponential integral function,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$Q_i$,Flow rate of component i,,,$M / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+$p_s$,Formation pressure at std,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$F$,Formation resistivity factor ,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Reservoir
+$T_s$,Formation temperature at std,,,$T$,$R$,$K$,Physical,,Prop. Reservoir
+$B$,Formation volume factor,,,$L^{3} / L^{3}$,$ft^{3} / ft^{3}$,$m^{3} / m^{3}$,Physical,,Prop. Reservoir
+$B_{g}$,Formation volume factor of gas,,,$L^{3} / L^{3}$,$RB / SCF$,$m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$B_o$,Formation volume factor of oil,,,$L^{3} / L^{3}$,$RB / STB$,$m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$B_{g\alpha}$,Formation volume factor of phase α,,,$L^{3} / L^{3}$,$ft^{3} / ft^{3}$,$m^{3} / m^{3}$,Physical,,Prop. Reservoir
+$B_w$,Formation volume factor of water,,,$L^{3} / L^{3}$,$RB / BBL$,$m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$f_\alpha$,Fractional flow function of phase α,,,$fraction$,$fraction$,$fraction$,Mathematical,,Prop. Reservoir
+$f_m$,Friction factor ,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Reservoir
+$f_i$,Fugacity function of component i,,,$M / (Lt^{2})$,$lbm / (ft * D^{2})$  ,$kg / (m * D^{2})$  ,Mathematical,,Prop. Reservoir
+$f_{i\alpha}$,Fugacity of component i in phase α,,,$M / (Lt^{2})$,$lbm / (ft * D^{2})$  ,$kg / (m * D^{2})$  ,Physical,,Prop. Reservoir
+$\mathcal{A}$,Function in simplified gas state,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$\mathcal{B}$,Function in simplified gas state,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$\mathcal{C}$,Function in simplified gas state,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$R_{gl}$,Gas/liquid ratio,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$R_{go}$,Gas/oil ratio,,,$L^{3} / L^{3}$,$SCF / STB$,$std m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$f$,Generic function,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$Q_L$,Heat loss rate,,,$ML^{2} / t^{3}$,$Btu / D$,$J / D$,Physical,,Prop. Reservoir
+$q_c$,Heat source,,,$M / Lt^{3}$,$Btu / (ft^{3} D)$,$J / (m^{3} D)$,Physical,,Prop. Reservoir
+$Q_c$,Heat source rate,,,$ML^{2} / t^{3}$,$Btu / D$,$J / D$,Physical,,Prop. Reservoir
+$q_T$,Heat source/sink,,,$M / Lt^{3}$,$Btu / (ft^{3} D)$,$J / (m^{3} D)$,Physical,,Prop. Reservoir
+$p^{0}$,Initial pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p^{0}__{\alpha}$,Initial pressure of phase α,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$B_{wi}$,Initial water formation volume factor,,,$L^{3} / L^{3}$,$RB / BBL$,$m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$\Delta z$,Length step size in vertical direction,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$V$,Mass fraction of gas ,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$C_{Go}$,Mass fraction of gas component in oil,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$L$,Mass fraction of oil ,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$C_{Oo}$,Mass fraction of oil component in oil,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$x_i$,Mole fraction of component i,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$x_{i\alpha}$,Mole fraction of component i in phase α,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$B$,Neighborhood of origin,,,$L^{2}$,$ft^{2}$,$m^{2}$,Physical,,Prop. Reservoir
+$B_{ob}$,Oil formation volume factor at pb,,,$L^{3} / L^{3}$,$RB / STB$,$m^{3} / std m^{3}$,Physical,,Prop. Reservoir
+$\mathbf{E(u)}$,Orthogonal projection along u,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$q^{(')}$,Perturbated source/sink,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Physical,,Prop. Reservoir
+$p$,Pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+"$p_{i,j,k}$","Pressure at block (i, j, k)",,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p_i$,Pressure at node i,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p_{bh}$,Pressure at zbh,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p^{0}__{h}$,Pressure at zd,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$\delta p$,Pressure increment,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$p_\alpha$,Pressure of phase α,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$Q$,Production/injection rate,,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+"$\tilde{Q}_{i,j,k}$","Production/injection rate at (i, j, k)",,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+"$Q_{i,j,k}$","Production/injection rate at (i, j, k)",,,$M / t$,$lbm / D$,$kg / D$,Physical,,Prop. Reservoir
+$q^{(i)}$,Production/injection rate at well i,,,$(L^{3}) / t$,$ft^{3} / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+$\Phi^{'}$,Pseudopotential,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$\psi$,Pseudopressure,,,$M / Lt^{3}$,$lbm / (ft D^{3})$,$kg / (m D^{3})$,Physical,,Prop. Reservoir
+$p^{o}$,Reference pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$H$,Reservoir thickness,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Reservoir
+$\mathcal{F}$,Right-hand side function,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$\delta S$,Saturation increment,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+$q$,Source/sink,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Physical,,Prop. Reservoir
+$q_i$,Source/sink of component i,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg * mole / (m^{3} D)$,Physical,,Prop. Reservoir
+$\tilde{q}_{\alpha}$,Source/sink of phase α,,,$t^{-1}$,$D^{-1}$,$D^{-1}$,Physical,,Prop. Reservoir
+$q_\alpha$,Source/sink of phase α,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Physical,,Prop. Reservoir
+$Q_\alpha$,Source/sink of phase α,,,$M / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+$q_{\alpha s}$,Source/sink of phase α at std,,,$1 / t$,$1 / D$,$1 / D$,Physical,,Prop. Reservoir
+$\tilde{Q}_{\alpha s}$,Source/sink rate,,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+$\tilde{q}_{\alpha s}$,Source/sink rate at std,,,$t^{-1}$,$D^{-1}$,$D^{-1}$,Physical,,Prop. Reservoir
+$h^{''}$,Spatial step size,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$h^{'}$,Spatial step size,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$\Delta x_{i}$,Spatial step size in xi-direction,,,$L$,$ft$,$m$,Physical,,Prop. Reservoir
+$q^{(v)}_{spe}$,Specified source/sink,,,$M / L^{3} t$,$lbm / ft^{3} D$,$kg / m^{3} D$,Physical,,Prop. Reservoir
+$p_{sp}$,Specified surface pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$\alpha_{Ti}$,Thermal diffusion factor of component i,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Reservoir
+$p_{cb}$,Threshold pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Reservoir
+$J$,"Time interval of interest (0, T ]",,,$t$,$D$,$D$,Physical,,Prop. Reservoir
+$\Delta t$,Time step size,,,$t$,$D$,$D$,Physical,,Prop. Reservoir
+$\Delta t^{n}$,Time step size at level n,,,$t$,$D$,$D$,Physical,,Prop. Reservoir
+$\Delta t_p$,Time step size for pressure,,,$t$,$D$,$D$,Physical,,Prop. Reservoir
+$\Delta t_S$,Time step size for saturation,,,$t$,$D$,$D$,Physical,,Prop. Reservoir
+$x_m$,Total mole fraction of component m,,,$mole / mole$,$mole / mole$,$mole / mole$,Physical,,Prop. Reservoir
+$z_m$,Total mole fraction of component m,,,$fraction$,$fraction$,$fraction$,Physical,,Prop. Reservoir
+"$\tilde{Q}_{w,i,j,k}$","Water source/sink at (i, j, k)",,,$(L^{3}) / t$,$RB / D$,$m^{3} / D$,Physical,,Prop. Reservoir
+$\gamma_\alpha$,α-phase gravity,,,$M / (L^{2}t^{2})$,$psi / ft$,$kPa / m$,Physical,,Prop. Reservoir

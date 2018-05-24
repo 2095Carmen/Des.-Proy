@@ -1,0 +1,20 @@
+Nomenclature,Noun,Software_Noun,Description,Dimensional_Analysis,English_System,International_System,Parameter_Type,Check,Classification
+Nomenclature,Noun,Software Noun,Description,Dimensional Analysis,English System,International System,Parameter Type,“Check”,Classification
+$z$,Depth,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Well
+$r_e$,Equivalent radius,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Well
+$D$,Inner diameter of tubing,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Well
+$\Delta l$,Length step size in well direction,,,$L$,$ft$,$m$,Physical,,Prop. Well
+$\mathbf {x_0}$,Location of well,,,$L$,$ft$,$m$,Mathematical,,Prop. Well
+$\mathbf x^{(v)}$,Location of well,,,$L$,$ft$,$m$,Mathematical,,Prop. Well
+$\mathbf x^{(i)}$,Location of well,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,,Prop. Well
+$M_{wv}$,Number of perforated zones of νth well,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Well
+$N_w$,Number of wells,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Well
+$p_w$,Pressure of wellbore,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Well
+$p_{wh}$,Pressure of wellhead,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,,Prop. Well
+$r_w$,Radius of well,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Well
+$r^{o}$,Reference radius,,,$L$,$ft$,$m$,Physical,Mathematical,Prop. Well
+$s$,Skin factor,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Well
+$\tilde{q}$,Total well flow rate,,,$t^{-1}$,$D^{-1}$,$D^{-1}$,Physical,,Prop. Well
+$W_t$,Total well productivity,,,$L^{3}$,$ft^{3}$,$m^{3}$,Physical,Mathematical,Prop. Well
+$WI$,Well index,,,$L^{3}$,$ft^{3}$,$m^{3}$,Physical,,Prop. Well
+$\Delta h$,Well length in a gridblock,,,$L$,$ft$,$m$,Physical,,Prop. Well

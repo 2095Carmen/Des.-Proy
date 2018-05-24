@@ -1,0 +1,47 @@
+Nomenclature,Noun,Software_Noun,Description,Dimensional_Analysis,English_System,International_System,Parameter_Type,Check,Classification
+Nomenclature,Noun,Software Noun,Description,Dimensional Analysis,English System,International System,Parameter Type,“Check”,Classification
+$\textit{A}$,Adjustable parameter in tortuosity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$\textit{B}$,Adjustable parameter in tortuosity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$\textit{C}$,Adjustable parameter in tortuosity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$k_{ij}$,Binary interaction parameter,,,$dimensionless$,$dimensionless$,$dimensionless$,Mathematical,petrophysical,Prop. Rock
+$\rho_{b}$,Bulk density,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Physical,,Prop. Rock
+$p_c$,Capillary pressure,,,$M / (Lt^{2})$,$psi$,$kPa$,Physical,petrophysical,Prop. Rock
+$\delta$,Constrictivity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,,Prop. Rock
+$S_{gc}$,Critical gas saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{wc}$,Critical water saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$\rho$,Density,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Physical,,Prop. Rock
+$\mathbf k_\alpha$,Effective permeability of phase α,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$K_H$,Horizontal permeability,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$S^{0}_w$,Initial saturation of water,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{iw}$,Irreducible water saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{gmax}$,Maximum gas saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{wmax}$,Maximum water saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$\bar{V}$,Nondimensional V(t),,,$fraction$,$fraction$,$fraction$,Mathematical,Physical,Prop. Rock
+$\bar{V}_o$,Nondimensional Vo (t),,,$fraction$,$fraction$,$fraction$,Mathematical,Physical,Prop. Rock
+$\bar{V}_w$,Nondimensional Vw (t),,,$fraction$,$fraction$,$fraction$,Mathematical,Physical,Prop. Rock
+$S_{na}$,Normalized saturation of phase α,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$\beta_g$,Parameter in Stone’s permeability,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$\beta_o$,Parameter in Stone’s permeability,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$m$,Parameter in tortuosity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$n$,Parameter in tortuosity,,,$mole$,$mole$,$mole$,Physical,petrophysical,Prop. Rock
+$k$,Permeability,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$k_{ii}$,Permeability in xi- direction,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$\mathbf k$,Permeability tensor,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$\phi$,Porosity,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$\phi^{o}$,Reference porosity,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$k_{rog}$,Relative permeability of oil-gas,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$k_{row}$,Relative permeability of oil-water,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$k_{ra}$,Relative permeability of phase α,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$S_{rg}$,Residual gas saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{or}$,Residual oil saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{nc}$,Residual saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{wr}$,Residual water saturation,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$c_R$,Rock compressibility,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Physical,petrophysical,Prop. Rock
+$S_{\alpha}$,Saturation of phase α,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$S_{we}$,Saturation of water at x1 = L,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock
+$k_s$,Solid thermal conductivity,,,$ML / (Tt^{3})$,$Btu / (ft * D * R)$,$J / (m * D * K)$,Physical,petrophysical,Prop. Rock
+$\sigma$,Surface tension,,,$M / t^{2}$,$lbm / D^{2}$,$kg / D^{2}$,Physical,petrophysical,Prop. Rock
+$\tau$,Tortuosity,,,$dimensionless$,$dimensionless$,$dimensionless$,Physical,petrophysical,Prop. Rock
+$k_V$,Vertical permeability,,,$L^{2}$,$darcy$,$\mu m^{2}$,Physical,petrophysical,Prop. Rock
+$\mu$,Viscosity,,,$M / Lt$,$cp$,$(Pa * s)$,Physical,petrophysical,Prop. Rock
+$S_{wf}$,Water saturation at water front,,,$fraction$,$fraction$,$fraction$,Physical,petrophysical,Prop. Rock

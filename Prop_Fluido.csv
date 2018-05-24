@@ -1,0 +1,91 @@
+Nomenclatura,Parametro,Parametro_Software,Descripcion,Analisis_Dimensional,Sistema_Ingles,Sistema_Internacional,Tipo_de_Parametro,Revisar,Clasificacion
+Nomenclatura,Parámetro,Parámetro Software,Descripción,Análisis Dimensional,Sistema Inglés,Sistema Internacional,Tipo de Parámetro,“Revisar”,Clasificación
+$\theta$,Ángulo de contacto,,,$rad$,$rad$,$rad$,Físico,Matemático,Prop. Fluido
+$\Delta p_w$,Caída de presión de trabajo externo,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Fluido
+$\Delta p_g$,Caída de presión hidrostática,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Fluido
+$\Delta p_a$,Caída de presión por aceleración,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Fluido
+$\Delta p_f$,Caída de presión por fricción,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Fluido
+$c_V$,Capacidad calorífica específica del fluido,,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$C_s$,Capacidad caloríica específica,,,$L^{2} / Tt^{2}$,$ft^{2} / RD^{2}$,$m^{2} / KD^{2}$,Físico,,Prop. Fluido
+"$C_{p,ub}$",Capacidad de calor de la carga inferior (presión fija),,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$C_{p\alpha}$,Capacidad de calor de la fase α (Presión fija),,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$C_{V\alpha}$,Capacidad de calor de la fase α (Volumen fijo),,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+"$C_{p,ob}$",Capacidad de calor de sobrecarga (presión fija),,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$c_s$,Capacidad de calor específica sólida,,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$c_b$,Capacidad de calor específico aparente,,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$c_p$,Capacidad del flujo de calor,,,$L^{2} / Tt^{2}$,$Btu / (lbm * R)$,$J / (kg * K)$,Físico,,Prop. Fluido
+$\Delta^{2}_{xi}$,Cociente de la segunda diferencia,,,$adimensional$,$adimensional$,$adimensional$,Matemático,Físico,Prop. Fluido
+$\mathbf D^{p}_i$,Coeficiente de difusión de presión,,,$L^{3} t / M$,$ft^{2} / (D * psi)$,$m^{2} / (D * kPa)$,Matemático,Físico,Prop. Fluido
+$\mathcal{D}_m$,Coeficiente de difusión del componente m (numérico),,,$M / t$,$lbm / D$,$kg * mole / D$,Matemático,Físico,Prop. Fluido
+"$\mathbf D^{M}_{i,j}$",Coeficiente de difusión molecular,,,$L^{2} / t$,$ft^{2} / D$,$m^{2} / D$,Matemático,Físico,Prop. Fluido
+$\mathbf D^{T}_i$,Coeficiente de difusión térmica,,,$L^{2} / tT$,$ft^{2} / D R$,$m^{2}  / D k$,Matemático,Físico,Prop. Fluido
+$\varphi_{ia}$,Coeficiente de fugacidad del componente i en la fase α,,,$adimensional$,$adimensional$,$adimensional$,Matemático,Físico,Prop. Fluido
+$a$,Coeficiente empírico o experimental,,,$adimensional$,$adimensional$,$adimensional$,Matemático,Físico,Prop. Fluido
+$L_{ik}$,Coeficiente fenomenológico,,,$adimensional$,$adimensional$,$adimensional$,Matemático,Físico,Prop. Fluido
+$c_\mu$,Compresibilidad de la viscosidad del aceite,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$c_o$,Compresibilidad del aceite,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$c_w$,Compresibilidad del agua,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$c_f$,Compresibilidad del fluido,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$c_g$,Compresibilidad del gas,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$Z$,Compresibilidad del gas,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Fluido
+$c_t$,Compresibilidad total,,,$Lt^{2}/M$,$psi^{-1}$,$kPa^{-1}$,Físico,,Prop. Fluido
+$k_T$,Conductividad térmica aparente,,,$ML / (Tt^{3})$,$Btu / (ft * D * R)$,$J / ( m * d * K)$,Físico,,Prop. Fluido
+$k_{ub}$,Conductividad térmica de la carga inferior,,,$ML / (Tt^{3})$,$Btu / (ft * D * R)$,$J / ( m * d * K)$,Físico,,Prop. Fluido
+$k_{ob}$,Conductividad térmica de la sobrecarga,,,$ML / (Tt^{3})$,$Btu / (ft * D * R)$,$J / ( m * d * K)$,Físico,,Prop. Fluido
+$k_f$,Conductividad térmica fluida,,,$ML / (Tt^{3})$,$Btu / (ft * D * R)$,$J / (m * D * K)$,Físico,,Prop. Fluido
+$R$,Constante universal del gas,,,$(M / Lt^{2}) * Lt^{3} / M mole * T$,$Psia * ft^{3} / lbmol * R$,$kPa * m^{3} / kg mol * K$,Matemático,Físico,Prop. Fluido
+$\rho_{o}$,Densidad del aceite,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{Os}$,Densidad del aceite en std,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{Ws}$,Densidad del agua en std,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{air}$,Densidad del aire,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho^{(i)}$,Densidad del fluido inyectado,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{Gs}$,Densidad del gas en std,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{s}$,Densidad en std,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\xi_\alpha$,Densidad molar de la fase α,,,$mole / L^{3}$,$mole / ft^{3}$,$mole / m^{3}$,Físico,,Prop. Fluido
+$\xi_i$,Densidad molar del componente i,,,$mole / L^{3}$,$mole / ft^{3}$,$mole / m^{3}$,Físico,,Prop. Fluido
+$\xi_{ia}$,Densidad molar del componente i en la fase α,,,$mole / L^{3}$,$mole / ft^{3}$,$mole / m^{3}$,Físico,,Prop. Fluido
+$\xi$,Densidad molar del fluido,,,$mole / L^{3}$,$mole / ft^{3}$,$mole / m^{3}$,Físico,,Prop. Fluido
+$\rho_{Oo}$,Densidad parcial del componente de aceite en el aceite,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\rho_{Go}$,Densidad parcial del componente de gas en el aceite,,,$M / L^{3}$,$lbm / ft^{3}$,$kg / m^{3}$,Físico,,Prop. Fluido
+$\bar{\gamma}$,Gravedad del fluido ponderada,,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$\gamma$,Gravedad del flujo,,,$M / (L^{2}t^{2})$,$psi / ft$,$kPa / m$,Físico,,Prop. Fluido
+$Y_G$,Gravedad del gas crudo,,,$adimensional$,$adimensional$,$adimensional$,Físico,,Prop. Fluido
+$W$,Peso molecular,,,$M / mole$,$lbm / mole$,$kg / mole$,Físico,,Prop. Fluido
+$W_O$,Peso molecular del aceite,,,$M / mole$,$lbm / mole$,$kg / mole$,Físico,,Prop. Fluido
+$W_i$,Peso molecular del componente i,,,$M / mole$,$lbm / mole$,$kg / mole$,Físico,,Prop. Fluido
+$W_G$,Peso molecular del gas,,,$M / mole$,$lbm / mole$,$kg / mole$,Físico,,Prop. Fluido
+$p_b$,Presión de punto de burbuja,,,$M / (Lt^{2})$,$psi$,$kPa$,Físico,,Prop. Fluido
+$t_B$,Tiempo de avance del agua,,,$t$,$D$,$D$,Físico,,Prop. Fluido
+$\mathbf T_{\alpha}$,Transmisibilidad (numerica),,,$L^{4} t / M$,$STB / (D * psi)$,$std m^{3} / (D * kPa)$,Físico,,Prop. Fluido
+$\mathbf T_{\alpha}$,Transmisibilidad de la fase α,,,$Lt$,$ft * D$,$m * D$,Físico,,Prop. Fluido
+$\mathbf T_{\alpha}$,Transmisibilidad de la fase α,,,$L^{3} t / M$,$ft^{3} D / lbm$,$std m^{3} D /kg$,Físico,,Prop. Fluido
+$T_w$,Transmisibilidad del agua,,,$L^{4} t / M$,$STB / (D * psi)$,$std m^{3} / (D * kPa)$,Físico,,Prop. Fluido
+$\mathbf T_m$,Transmisibilidad del componente m ,,,$Lt$,$ft * D$,$m * D$,Físico,,Prop. Fluido
+$\mathbf T_{m\alpha}$,Transmisibilidad del componente m en la fase α,,,$Lt$,$ft * D$,$m * D$,Físico,,Prop. Fluido
+$\mathbf T_{m\alpha}$,Transmisibilidad del componente m en la fase α,,,$L^{4} t / M$,$STB / (D * psi)$,$std m^{3} / (D * kPa)$,Físico,,Prop. Fluido
+$\mathbf T$,Transmisibilidad del fluido,,,$Lt$,$ft * D$,$m * D$,Físico,,Prop. Fluido
+$T_i$,Transmisibilidad en dirección xi,,,$Lt$,$ft * D$,$m * D$,Físico,,Prop. Fluido
+$T_i$,Transmisibilidad en dirección xi,,,$L^{4} t / M$,$STB / (D * psi)$,$std m^{3} / (D * kPa)$,Físico,,Prop. Fluido
+$\mathbf u$,"Velocidad Darcy (u1 , u2 , u3 )",,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$\mathbf u_\alpha$,Velocidad de Darcy de la fase α,,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$v$,Velocidad de poro,,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$u(r)$,Velocidad en dirección r,,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$v$,Velocidad intersticial,,,$L / t$,$ft / D$,$m / D$,Físico,,Prop. Fluido
+$\mu_{\alpha}$,Viscosidad de la fase α,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu_{ob}$,Viscosidad del aceite en pb,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu_w$,Viscosidad del agua,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu^{*}$,Viscosidad del fluido a baja presión,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu_{ig}$,Viscosidad del i-ésimo componente en el gas,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu_{io}$,Viscosidad del i-ésimo componente en el petróleo,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$\mu^{*}_m$,Viscosidad el componente m a baja presión,,,$M / Lt$,$cp$,$(Pa * s)$,Físico,,Prop. Fluido
+$V$,Volumen,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V_{ci}$,Volumen crítico del componente i,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V_w$,Volumen de agua,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V_o$,Volumen de la fase de aceite,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V_g$,Volumen de la fase de gas,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+"$V_{i,j,k}$","Volumen del bloque (i, j, k)",,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V_{Os}$,Volumen del componente de aceite en std,,,$L^{3}$,$STB$,$std m^{3}$,Físico,,Prop. Fluido
+$V_{Gs}$,Volumen del componente de gas en std,,,$L^{3}$,$SCF$,$std m^{3}$,Físico,,Prop. Fluido
+$V_s$,Volumen en std,,,$L^{3}$,$std ft^{3}$,$std m^{3}$,Físico,,Prop. Fluido
+$v_i$,Volumen molar del componente i,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
+$V$,Volumen molar del fluido,,,$L^{3}$,$ft^{3}$,$m^{3}$,Físico,,Prop. Fluido
